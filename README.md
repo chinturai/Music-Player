@@ -14,3 +14,5 @@ A simple music player website built using JavaScript, utilizing the various conc
 ## Data Structures Used:
 - **Queue** for managing the playlist, ensuring songs are played in the order they are added (FIFO: First In, First Out).
 
+## User Interface
+![Music Player](images/MusicPlayer.png)
